@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Eric (@ericallen9057) 👋
 
-<!--
-**ericallen9057/ericallen9057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst based in Seoul. Most of my day is spent digging into databases, cleaning messy inputs, and building lightweight automation pipelines with Python.
 
-Here are some ideas to get you started:
+#### What I'm working on:
+- 📊 Moving heavy exploratory workflows from traditional DBs to DuckDB
+- 🧹 Writing reusable Pandas/NumPy scripts to automate routine reporting
+- 📈 Experimenting with local transit and economic public datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech & Tools:
+- **Languages/Querying:** Python, SQL
+- **Analysis & Storage:** Pandas, NumPy, DuckDB, PostgreSQL, Jupyter
+- **Workflow:** Git, Bash, Linux
+
+#### Reach out:
+- ✉️ Email: ericallen9057@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/ericallen9057)
